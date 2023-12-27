@@ -1,0 +1,27 @@
+.box{
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
+
+.input{
+  width: 300px;
+  border-radius: 100px;
+  border: 2px solid green;
+  padding: 10px;
+  margin-left: 600px;
+}
+
+.btn{
+  background-color: blue;
+  color: white;
+  border: 2px solid wheat;
+  border-radius: 100px;
+  padding: 10px;
+  margin-left: 600px;
+
+}
+
+.title{
+  margin-left: 600px;
+}

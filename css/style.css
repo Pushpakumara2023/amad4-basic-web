@@ -1,0 +1,23 @@
+.xxx {
+  color: red;
+  background-color: blue;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.btn{
+  background-color: green;
+  padding: 10px;
+  border-radius: 100px;
+  color: white;
+}
+.para{
+  font-weight: bold;
+}
+.image{
+  width: 500px;
+  height: 500px;
+}
+.input{
+  padding: 10px;
+  border-radius: 100px;
+  border: 1px solid goldenrod;
+}

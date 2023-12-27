@@ -1,0 +1,74 @@
+.box{
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  border-radius: 100px;
+}
+
+.boxa{
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  border-radius: 100px;
+}
+
+.boxb{
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  border-radius: 100px;
+}
+
+.boxc{
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  border-radius: 100px;
+}
+
+.boxd{
+  margin: auto;
+  width: 200px;
+  height: 200px;
+  background-color: red;  
+  border-radius: 100px;
+  position: relative;
+  top: 250px;
+
+}
+
+.container{
+  width: 500px;
+  height: 500px;
+  background-color: blue;
+
+}
+
+.sum-container{
+  width: 50%;
+  height: 50%;
+  background-color: black;
+}
+
+/* px - absolut mesurement unit*/
+/* %, vw, vh - relative mesurement units*/
+
+.container2{
+  width: 30vw;
+  height: 40vh;
+  background-color: blue;
+}
+
+

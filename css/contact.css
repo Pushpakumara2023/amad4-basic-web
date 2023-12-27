@@ -1,0 +1,64 @@
+* {
+  box-sizing: border-box;
+  
+}
+
+.column1{
+  float: left;
+  width: 25%;
+  height: 300px;
+  padding-left: 400px;
+}
+
+.column2{
+  float: left;
+  width: 25%;  
+  height: 300px;
+  margin-left: 340px;
+  padding-top: 10px;
+  padding-left: 20px;
+}
+.row::after{
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.inputsize{
+  width: 325px;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.messageinput{
+  width: 325px;
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-bottom: 57px;
+  border-radius: 10px;
+}
+
+.btn{
+  width: 325px;
+  padding: 15px;
+  background-color: blue;
+  border-radius: 10px;
+  font-size: 18px;
+  color: white;
+
+}
+
+.title{
+  font-size: 30px;
+  margin-left: 400px;
+  padding-top: 100px;
+}
+
+.h3text{
+  color: white;
+}
+
+.copyright{
+  margin-top: 25px;
+  margin-left: 400px;
+}
